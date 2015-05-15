@@ -1,0 +1,17 @@
+{
+    "contents" : "require(mssqlserver)\nrequire(BDI)\n\n",
+    "created" : 1428450731630.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1738675962",
+    "id" : "4B5273B1",
+    "lastKnownWriteTime" : 136459072,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
